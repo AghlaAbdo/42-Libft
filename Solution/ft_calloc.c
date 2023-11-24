@@ -6,7 +6,7 @@
 /*   By: aaghla <aaghla@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/11/06 11:59:34 by aaghla            #+#    #+#             */
-/*   Updated: 2023/11/22 15:13:21 by aaghla           ###   ########.fr       */
+/*   Updated: 2023/11/24 09:31:14 by aaghla           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -18,7 +18,8 @@ void	*ft_calloc(size_t count, size_t size)
 	size_t			res;
 
 	res = count * size;
-	if (res < count && res)
+	if (res < count && res < size &&
+	 res)
 		return (NULL);
 	locate = malloc(res);
 	if (!locate)
