@@ -112,7 +112,7 @@ Whenever you are asked to implement the behavior of a certain standard function,
 
 This is my grade for this project:
 
-(src/my_grade.png)
+![my grade](src/my_grade.png)
 
 ## Contributing
 
