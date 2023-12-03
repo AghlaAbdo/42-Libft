@@ -1,7 +1,5 @@
 # Libft
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/YourUsername/Libft/blob/main/LICENSE)
-
 ## Description
 
 Libft is a project at 1337 school where you implement your own library containing various standard C functions. This library, named `libft.a`, will serve as a foundation for your future projects at the school.
@@ -14,6 +12,7 @@ Libft is a project at 1337 school where you implement your own library containin
 - [Usage](#usage)
   - [Example](#example)
 - [Resources](#resources)
+- [Grade](#grade)
 - [Contributing](#contributing)
   - [How to Contribute](#how-to-contribute)
   - [What to Contribute](#how-to-contribute)
@@ -108,6 +107,12 @@ Whenever you are asked to implement the behavior of a certain standard function,
 [Learn about structs in c - Geeksforgeeks](https://www.geeksforgeeks.org/structures-c/)
 
 [Learn about linked lists in c - Geeksforgeeks](https://www.geeksforgeeks.org/what-is-linked-list/)
+
+## Grade
+
+This is my grade for this project:
+
+(src/my_grade.png)
 
 ## Contributing
 
